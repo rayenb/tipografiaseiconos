@@ -1,0 +1,31 @@
+/* Inserta tu CSS aqui */
+ 
+div {
+	padding: 15px;
+	height: 220px;
+	width: 200px;
+	display: inline-block;
+	text-align: center;
+	color: gray;
+	background-color: #DADADA;
+}
+* {	
+	font-family: 'Open Sans', sans-serif;
+}
+h2 {
+	font-size: 20px;
+}
+p {
+	font-size: 10px;
+	font-weight: 100;
+}
+div:hover {
+	background-color: #A3E5EA;
+	color: #89A1E6;
+	padding: 20px;
+	height: 225px;
+	width: 205px;
+	display: inline-block;
+	text-align: center;
+}
+
